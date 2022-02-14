@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chiperschool2.git/static/css/main.82bc34db.css",
-    "main.js": "/chiperschool2.git/static/js/main.86b17595.js",
-    "index.html": "/chiperschool2.git/index.html",
-    "main.82bc34db.css.map": "/chiperschool2.git/static/css/main.82bc34db.css.map",
-    "main.86b17595.js.map": "/chiperschool2.git/static/js/main.86b17595.js.map"
+    "main.css": "/chiperschool2/static/css/main.82bc34db.css",
+    "main.js": "/chiperschool2/static/js/main.86b17595.js",
+    "index.html": "/chiperschool2/index.html",
+    "main.82bc34db.css.map": "/chiperschool2/static/css/main.82bc34db.css.map",
+    "main.86b17595.js.map": "/chiperschool2/static/js/main.86b17595.js.map"
   },
   "entrypoints": [
     "static/css/main.82bc34db.css",
