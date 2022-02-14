@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rishika0711/chiperschool2.git/static/css/main.82bc34db.css",
+    "main.js": "/rishika0711/chiperschool2.git/static/js/main.86b17595.js",
+    "index.html": "/rishika0711/chiperschool2.git/index.html",
+    "main.82bc34db.css.map": "/rishika0711/chiperschool2.git/static/css/main.82bc34db.css.map",
+    "main.86b17595.js.map": "/rishika0711/chiperschool2.git/static/js/main.86b17595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bc34db.css",
+    "static/js/main.86b17595.js"
+  ]
+}
